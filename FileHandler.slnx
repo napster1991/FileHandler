@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FileHandler.Benchmarks/FileHandler.Benchmarks.csproj" />
+  <Project Path="FileHandler.Unit/FileHandler.Unit.csproj" Id="021855f2-de67-403a-adf3-433d5287b277" />
+  <Project Path="FileHandler/FileHandler.csproj" />
+</Solution>
